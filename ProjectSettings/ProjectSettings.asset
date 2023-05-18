@@ -791,7 +791,21 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   webGLPowerPreference: 2
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Android: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    EmbeddedLinux: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    GameCoreXboxOne: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    Lumin: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    Nintendo Switch: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    PS4: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    PS5: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    Stadia: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    Standalone: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    WebGL: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    Windows Store Apps: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    XboxOne: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    iPhone: CT_FB;CT_PROC;CT_RTV;CT_RADIO
+    tvOS: CT_FB;CT_PROC;CT_RTV;CT_RADIO
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
