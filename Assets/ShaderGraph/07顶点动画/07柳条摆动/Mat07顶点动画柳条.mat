@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-7324013765450394679
+--- !u!114 &-6477983505004973353
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,14 +20,14 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "Mat06\u5E8F\u5217\u5E27\u65B9\u6CD52"
-  m_Shader: {fileID: -6465566751694194690, guid: 16ee1640b488b4c4c9ca618c530aeb29,
+  m_Name: "Mat07\u9876\u70B9\u52A8\u753B\u67F3\u6761"
+  m_Shader: {fileID: -6465566751694194690, guid: d93de040715a1fc4d84782eea22adba3,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 4
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -38,11 +38,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTexture:
-        m_Texture: {fileID: 2800000, guid: 0a9aef4290f39064abe404f14ac69591, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MainTextureArray:
-        m_Texture: {fileID: 18700000, guid: d774552358de6044bb438255da4439c4, type: 3}
+        m_Texture: {fileID: 2800000, guid: 25c4f2914199d7344a102ad88f9b658a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -59,19 +55,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Column: 4
-    - _Column_1: 4
-    - _Column_2: 4
-    - _Column_3: 4
-    - _PicIndex: 0.57
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Row: 4
-    - _Row_1: 4
-    - _Row_2: 4
-    - _Row_3: 4
-    - _Row_4: 4
-    - _Row_5: 4
     - _Speed: 1
     m_Colors: []
   m_BuildTextureStacks: []
