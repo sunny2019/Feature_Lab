@@ -428,7 +428,7 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 1
---- !u!1001 &1502449837
+--- !u!1001 &1674783461647562085
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
